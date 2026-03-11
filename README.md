@@ -4,7 +4,7 @@ an AI-powered assistant built with IBM Watsonx.ai and Retrieval-Augmented Genera
 
 ---
 
-![ai](ai.jpg)
+![image alt]()
 
 ---
 
@@ -86,17 +86,17 @@ This AI assistant, built with IBM Watsonx.ai, is designed to give you clear, rel
 
 ## Screenshots
 ### 1.Setup
-![FinAdvisor Setup](<FinAdvisor Setup.jpg>)
+![FinAdvisor Setup]()
 ### 2.Agent Instructions
-![Agent Instructions](agent_instructions.jpg)
+![Agent Instructions]()
 ### 3.Agent Preview and Start Questions
-![Agent Preview and Start Questions](<Agent Preview and Start Questions.jpg>)
+![Agent Preview and Start Questions]()
 ### 4.Deployment
-![Deployment](Deployment.jpg)
+![Deployment]( )
 ### 5.API Reference
-![API Reference](<API Reference.jpg>)
+![API Reference]()
 ### 6.Resource List
-![Resource List](<Resource List.jpg>)
+![Resource List]()
 
 ---
 
@@ -130,5 +130,6 @@ This AI assistant, built with IBM Watsonx.ai, is designed to give you clear, rel
 - [RBI Official Website](https://www.rbi.org.in)
 - [NPCI FAQs](https://www.npci.org.in/what-we-do/upi/faqs)
 - [IBM SkillsBuild](https://skillsbuild.org)
+
 
 ---
