@@ -4,7 +4,7 @@ an AI-powered assistant built with IBM Watsonx.ai and Retrieval-Augmented Genera
 
 ---
 
-![image alt]()
+![image alt](https://github.com/ChDeekshith14/IBM-SKILLS-BUILD-Digital-Financial-Literacy-AI-agent/blob/fdbc025a9d16530561f73a446799e0eb56830e61/ai.jpg)
 
 ---
 
@@ -86,17 +86,19 @@ This AI assistant, built with IBM Watsonx.ai, is designed to give you clear, rel
 
 ## Screenshots
 ### 1.Setup
-![FinAdvisor Setup]()
+![FinAdvisor Setup](https://github.com/ChDeekshith14/IBM-SKILLS-BUILD-Digital-Financial-Literacy-AI-agent/blob/fdbc025a9d16530561f73a446799e0eb56830e61/FinAdvisor%20Setup-1.jpg)
 ### 2.Agent Instructions
-![Agent Instructions]()
+![Agent Instructions](https://github.com/ChDeekshith14/IBM-SKILLS-BUILD-Digital-Financial-Literacy-AI-agent/blob/fdbc025a9d16530561f73a446799e0eb56830e61/agent_instructions-2.jpg)
 ### 3.Agent Preview and Start Questions
-![Agent Preview and Start Questions]()
+![Agent Preview and Start Questions](
+https://github.com/ChDeekshith14/IBM-SKILLS-BUILD-Digital-Financial-Literacy-AI-agent/blob/fdbc025a9d16530561f73a446799e0eb56830e61/Agent%20Preview%20and%20Start%20Questions-3.jpg)
 ### 4.Deployment
-![Deployment]( )
+![Deployment](https://github.com/ChDeekshith14/IBM-SKILLS-BUILD-Digital-Financial-Literacy-AI-agent/blob/fdbc025a9d16530561f73a446799e0eb56830e61/Deployment-4.jpg)
 ### 5.API Reference
-![API Reference]()
+![API Reference](https://github.com/ChDeekshith14/IBM-SKILLS-BUILD-Digital-Financial-Literacy-AI-agent/blob/fdbc025a9d16530561f73a446799e0eb56830e61/API%20Reference-5.jpg)
 ### 6.Resource List
-![Resource List]()
+![Resource List](
+https://github.com/ChDeekshith14/IBM-SKILLS-BUILD-Digital-Financial-Literacy-AI-agent/blob/fdbc025a9d16530561f73a446799e0eb56830e61/Resource%20List-6.jpg)
 
 ---
 
@@ -133,3 +135,4 @@ This AI assistant, built with IBM Watsonx.ai, is designed to give you clear, rel
 
 
 ---
+
